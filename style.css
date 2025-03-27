@@ -1,0 +1,10 @@
+.article {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.destacado {
+  border-color: red;
+}
